@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "headers-and-footer-for-odd-and-even-pages", "headers-and-footer-for-odd-and-even-pages.csproj", "{727DB2FD-8F40-4B93-A49C-5FB2D2D8675B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727DB2FD-8F40-4B93-A49C-5FB2D2D8675B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727DB2FD-8F40-4B93-A49C-5FB2D2D8675B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727DB2FD-8F40-4B93-A49C-5FB2D2D8675B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727DB2FD-8F40-4B93-A49C-5FB2D2D8675B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192D0CF3-E449-4A1C-88AC-348408057E35}
+	EndGlobalSection
+EndGlobal
